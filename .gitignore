@@ -66,3 +66,7 @@ uselib
 uselib_track
 darknet
 vcpkg/
+
+# Personal Changes
+*.avi
+*.mp4
